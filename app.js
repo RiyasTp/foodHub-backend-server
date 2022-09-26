@@ -74,7 +74,7 @@ const clients = {};
 
 mongoose
   .connect(
-    `mongodb://localhost:27017/foodapp` 
+    `mongodb+srv://riyas:S09ZdCaaUcLYUibq@diner24.ncplk6i.mongodb.net/?retryWrites=true&w=majority`
   , { useNewUrlParser: true,
     useUnifiedTopology: true,} 
   )
