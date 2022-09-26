@@ -18,7 +18,7 @@
   "author": "Abhishek Yadav",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    
   },
   "dependencies": {
     "nodemon": "^2.0.4", 
